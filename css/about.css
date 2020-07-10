@@ -122,7 +122,11 @@ div#headerimage{
     margin: 20px;
 }
 .centerboxes .individualboxes .learn-more div{
-border-style: solid;
+    border-style: solid;
+}
+
+.lets-work-together{
+    margin: 20px;
 }
 
 footer {
